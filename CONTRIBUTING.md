@@ -23,7 +23,7 @@ Thanks for contributing. This document covers the day-to-day workflow for workin
 ## Code Style
 
 - Run the project's linter/formatter before committing.
-- Follow the existing conventions in whichever repo you're working in. FoldShield++, RainDrop, SynBraid, QPhase, SEE Engine, SME-BS, and UL DSL/USL each document their own local conventions in that repo's README.
+- Follow the existing conventions in whichever repo you're working in. FoldShield++, OmegaSignal, QPhase, each document their own local conventions in that repo's README.
 
 ## Reporting Bugs or Requesting Features
 
