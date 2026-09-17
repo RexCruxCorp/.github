@@ -18,4 +18,4 @@ RexCrux repositories are under active development. Security fixes are applied to
 
 ## Scope
 
-This policy covers the RexCruxCorp organization's repositories, including FoldShield++, RainDrop, SynBraid, QPhase, SEE Engine, SME-BS, and the UL DSL/USL toolchain.
+This policy covers the RexCruxCorp organization's repositories, including FoldShield++, OmegaSignal, QPhase, and the UL DSL/USL toolchain.
